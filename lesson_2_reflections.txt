@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Creates hidden files to store metadata about change history / place to track version changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's not offically a recorded change yet but set to be recorded.  It allows coders to selectively choose what and when to update, putting numerous changes into discrete logical chucks.
