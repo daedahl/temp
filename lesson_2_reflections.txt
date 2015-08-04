@@ -5,3 +5,7 @@ Creates hidden files to store metadata about change history / place to track ver
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's not offically a recorded change yet but set to be recorded.  It allows coders to selectively choose what and when to update, putting numerous changes into discrete logical chucks.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can be selective about which files and/or lines of code to include in each commit
