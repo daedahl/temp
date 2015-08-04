@@ -21,3 +21,7 @@ I can see what is connected to what and how
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 code changes from both branches are combined.  The diagram shows parent relationships - how Git tracks changes
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+auto is easy and efficient, but could make unpredicted errors if given too much freedom, manual is tedious but allows for reasoned selection
