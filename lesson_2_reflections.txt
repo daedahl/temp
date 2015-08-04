@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Creates hidden files to store metadata about change history / place to track version changes
