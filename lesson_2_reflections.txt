@@ -9,3 +9,7 @@ It's not offically a recorded change yet but set to be recorded.  It allows code
 How can you use the staging area to make sure you have one commit per logical change?
 
 you can be selective about which files and/or lines of code to include in each commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+expirimental features, code base for different OS's or devices, and probably many many more
