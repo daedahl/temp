@@ -13,3 +13,7 @@ clones copy entire repositories.  Forks are special clones on GitHub.  Branches 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It's the compairson point for any new changes - locally or remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+In person, G-Drive, bitbucket?  If using Git, GitHub is possibly the best option
