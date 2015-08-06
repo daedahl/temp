@@ -17,3 +17,7 @@ It's the compairson point for any new changes - locally or remote
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 In person, G-Drive, bitbucket?  If using Git, GitHub is possibly the best option
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When it's not an offically accepted change - working in 'your branch' helps others understand your changes before choosing to accept them
